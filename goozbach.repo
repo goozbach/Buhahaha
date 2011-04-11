@@ -1,0 +1,7 @@
+[goozbach]
+name=BoozGack's github repo
+baseurl=http://goozbach.github.com/Buhahaha/repo/
+failovermethod=priority
+enabled=1
+gpgcheck=0
+
